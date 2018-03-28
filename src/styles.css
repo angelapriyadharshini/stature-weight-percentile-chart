@@ -1,0 +1,32 @@
+/* line 1, /Users/Dharshini/Documents/JavaScript/Projects/stature-weight-percentile-chart/src/styles.scss */
+* {
+  margin: 0;
+  padding: 0; }
+
+/* line 9, /Users/Dharshini/Documents/JavaScript/Projects/stature-weight-percentile-chart/src/styles.scss */
+.header {
+  height: 50px;
+  text-align: center;
+  vertical-align: middle; }
+
+/* line 15, /Users/Dharshini/Documents/JavaScript/Projects/stature-weight-percentile-chart/src/styles.scss */
+#container {
+  margin: 150px 100px; }
+
+/* line 18, /Users/Dharshini/Documents/JavaScript/Projects/stature-weight-percentile-chart/src/styles.scss */
+#chart {
+  margin: auto;
+  border: solid 1px #000;
+  width: 900px;
+  height: 750px;
+  background-size: 5px 5px;
+  background-image: linear-gradient(to right, grey 1px, transparent 1px), linear-gradient(to bottom, grey 1px, transparent 1px); }
+
+/* line 27, /Users/Dharshini/Documents/JavaScript/Projects/stature-weight-percentile-chart/src/styles.scss */
+.chart-dup {
+  height: 750px;
+  background-size: 50px 50px;
+  background-image: linear-gradient(to right, black 1px, transparent 1px), linear-gradient(to bottom, black 1px, transparent 1px);
+  position: relative; }
+
+/*# sourceMappingURL=styles.css.map */
